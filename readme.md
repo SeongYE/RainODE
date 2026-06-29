@@ -54,7 +54,7 @@ cd ./source_model
 ```
 
 Our implementation follows the [BBDM](https://github.com/xuekt98/bbdm) framework. 
-Before training SSM, download `vq-f4.ckpt` from the repository and place it under the `source_model/` directory.
+Before training SSM, download VQGAN-4 chekpoint from the repository and place it under the directory as: `source_model/vq4.ckpt`
 
 For training, run:
 
