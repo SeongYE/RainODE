@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+checkpoint/
+ode_output/
+bbdm_output/
+source_model/results/
+
+*.ckpt
+*.pth
+*.pt
+*.h5
+*.npy

@@ -1,0 +1,12 @@
+einops
+lightning
+h5py
+omegaconf
+tensorboard
+torchsummary
+matplotlib
+torchdiffeq
+timm
+opencv-python-headless
+scikit-image
+pandas
