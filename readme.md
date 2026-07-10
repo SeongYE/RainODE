@@ -2,6 +2,8 @@
 
 **Accepted to ECCV 2026**
 
+[[Paper](http://arxiv.org/abs/2606.29855)] [[Project Page](https://seongye.github.io/rainode/)]
+
 RainODE is a **continuous-time precipitation forecasting framework** based on latent Neural ODEs.  
 It models precipitation evolution as a continuous latent trajectory and refines fine-scale intensity variations using a stochastic source modeling module.
 
